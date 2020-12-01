@@ -1,15 +1,17 @@
-import XCTest
+// BoB @ unouprime.oder@outlook.com
+
 @testable import EpubKit_swift
+import XCTest
 
 final class EpubKit_swiftTests: XCTestCase {
-    func testExample() {
-        // This is an example of a functional test case.
-        // Use XCTAssert and related functions to verify your tests produce the correct
-        // results.
-        XCTAssertEqual(EpubKit_swift().text, "Hello, World!")
-    }
+  func testExample() {
+    // This is an example of a functional test case.
+    // Use XCTAssert and related functions to verify your tests produce the correct
+    // results.
+    XCTAssertEqual(EpubKit_swift().text, "Hello, World!")
+  }
 
-    static var allTests = [
-        ("testExample", testExample),
-    ]
+  static var allTests = [
+    ("testExample", testExample),
+  ]
 }
