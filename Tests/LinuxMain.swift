@@ -1,3 +1,7 @@
+//
+// BoB @ unouprime.oder@outlook.com
+//
+
 import XCTest
 
 import EpubKit_swiftTests

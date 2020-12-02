@@ -11,7 +11,7 @@
 --fragment false
 --funcattributes preserve
 --guardelse auto
---header "// BoB @ unouprime.oder@outlook.com"
+--header "//\n// BoB @ unouprime.oder@outlook.com\n//"
 --hexgrouping 4,8
 --hexliteralcase uppercase
 --ifdef indent
@@ -20,21 +20,21 @@
 --indentcase true
 --linebreaks lf
 --maxwidth none
---modifierorder 
---nospaceoperators 
---nowrapoperators 
+--modifierorder
+--nospaceoperators
+--nowrapoperators
 --octalgrouping 4,8
 --operatorfunc spaced
 --patternlet hoist
 --self remove
---selfrequired 
+--selfrequired
 --semicolons inline
 --shortoptionals always
 --smarttabs enabled
 --stripunusedargs always
 --swiftversion 5.3
 --tabwidth 2
---trailingclosures 
+--trailingclosures
 --trimwhitespace always
 --typeattributes preserve
 --varattributes preserve
@@ -46,4 +46,3 @@
 --yodaswap always
 --disable andOperator,blankLinesAroundMark,preferKeyPath,redundantBackticks,redundantFileprivate,redundantLet,redundantRawValues
 --enable isEmpty
-
