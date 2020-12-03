@@ -74,7 +74,7 @@ xcuserdata/
 *.xccheckout
 
 ## compatibility with Xcode 3 and earlier (ignoring not required starting Xcode 4)
-build/
+## build/
 DerivedData/
 *.moved-aside
 *.pbxuser
@@ -108,12 +108,6 @@ playground.xcworkspace
 # hence it is not needed unless you have added a package configuration file to your project
 # .swiftpm
 
-.build/
-.DS_Store
-/.build
-/Packages
-/*.xcodeproj
-xcuserdata/
 
 # CocoaPods
 # We recommend against adding the Pods directory to your .gitignore. However
@@ -151,7 +145,7 @@ fastlane/test_output
 iOSInjectionProject/
 
 ### SwiftPackageManager ###
-Packages
+#Packages
 xcuserdata
 *.xcodeproj
 
