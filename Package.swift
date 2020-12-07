@@ -13,7 +13,7 @@ let package = Package(
     ),
     .executable(
       name: "EpubKit",
-      targets: ["CommandLineTool"]
+      targets: ["EpubKit.swift"]
     ),
   ],
   dependencies: [
@@ -28,10 +28,14 @@ let package = Package(
       name: "EpubKit.swift",
       dependencies: ["Plot"]
     ),
-    .target(
-      name: "CommandLineTool",
-      dependencies: ["Plot"]
-    ),
+//    .target(
+//      name: "CommandLineTool",
+//      dependencies: ["Plot"]
+//    ),
     // .testTarget(name: "EpubKit.swiftTests", dependencies: ["EpubKit.swift"]),
   ]
 )
+
+class a {
+  
+}

@@ -11,7 +11,7 @@
 --fragment false
 --funcattributes preserve
 --guardelse auto
---header "//\n// BoB @ unouprime.oder@outlook.com\n//"
+--header "//\n//  BoB @unouprime.oder@outlook.com\n//"
 --hexgrouping 4,8
 --hexliteralcase uppercase
 --ifdef indent
