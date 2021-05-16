@@ -35,3 +35,4 @@ let package = Package(
     // .testTarget(name: "EpubKit.swiftTests", dependencies: ["EpubKit.swift"]),
   ]
 )
+

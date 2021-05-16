@@ -1,3 +1,4 @@
+.build/
 
 # Created by https://www.toptal.com/developers/gitignore/api/macos,swiftpm,swiftpackagemanager,swift,linux,windows,git
 # Edit at https://www.toptal.com/developers/gitignore?templates=macos,swiftpm,swiftpackagemanager,swift,linux,windows,git
@@ -106,7 +107,7 @@ playground.xcworkspace
 # *.xcodeproj
 # Xcode automatically generates this directory with a .xcworkspacedata file and xcuserdata
 # hence it is not needed unless you have added a package configuration file to your project
-# .swiftpm
+.swiftpm
 
 
 # CocoaPods
