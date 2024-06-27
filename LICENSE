@@ -1,3 +1,21 @@
+With the listed conditions, this software is distributed under MPL-2.0-modified:
+
+Mozilla Public License Version 2.0(Modified Version with Conditions)
+==================================
+
+0. Additional Conditions
+    0.0. For the origin repository, and only for it, before 2024-06-27(UTC+08), please use MIT License;
+    0.1. Do not setup/provide a public/sharing source code management(SCM), without linking/pointing to the origin GitHub git repository,
+       0.1.1. "public/sharing" meaning it can be accessed by multiple people/account(network account[such as GitHub, Google account]/local account),
+       0.1.2. "source code management(SCM)" meaning Git, SVN, and any other tools providing such functions,
+       0.1.3. "linking/pointing" meaning: on website like GitHub(code sharing and cooperating platform), a "mirrored/fork from" should be added into your repository settings, and shown on the website; for other SCM, mention this repository in README.md and in at least one more place other than files in the repository,
+       0.1.4. this clause is an additional constraint to section 3.4. MPL-2.0, in order if someone forgets to Notice;
+    0.2. This additional conditions should be part of the license(except section 0.0., and can be removed in redistributions), any language meaning/mentioning "Mozilla Public License Version 2.0"/"license"/"the license" should be interpreted into the modified version with these conditions, except section 10.3, this section(0.2.) and section 0.5.;
+    0.3. "this repository"/"the origin repository" meaning "https://github.com/BobH-Official/EpubKit.swift.git", and should not be changed, even in redistributions; that's to say, keep this repository as the root of the distribution tree and always be,
+       0.3.1 in order to keep the true origin of the repository, any "public/sharing" services should not provide user/account/userspace/group/group-space/etc. whose name/id is "BobH-Official"/"BobH_Official"(case insensitive, symbols insensitive), or any other names looks like these(such as "BobH-0fficial"), or any other names that translated into other languages(such as "鲍勃H官方" in Chinese, "BobH公式" in Japanese), without my permission;
+    0.4. Redistributions may require their redistributions to linking/pointing to itself; that's to say, redistributions can be a node on the distribution tree;
+    0.5. Original MPL-2.0 is provided below;
+
 Mozilla Public License Version 2.0
 ==================================
 
